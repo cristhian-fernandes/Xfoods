@@ -43,3 +43,41 @@ Ações: Selecionar Itens
  Restaurante Recebe 
 →
  Restaurante Aceita
+
+
+# Histórias de Usuário - Sistema de Delivery
+**Ponto de Vista dos Clientes**
+Eu, como cliente, estou buscando um pedido de lanche para comer de forma rápida e fácil.
+Como cliente, eu quero:
+
+Pedir minha comida de forma simples e prática para garantir pedidos mais rápidos.
+
+Poder cadastrar diversos endereços para pedir de onde eu estiver.
+
+Filtrar os restaurantes por tipo de comida (como pizza, lanches, etc.) para agilizar o processo de compra.
+
+Receber recomendações de restaurantes próximos para pedidos com entregas mais rápidas.
+
+Ser notificado quando o pedido estiver a caminho para acompanhar em tempo real.
+
+**Ponto de Vista dos Restaurantes**
+Eu, como restaurante, estou atendendo os pedidos do aplicativo para preparar e entregar rapidamente o pedido.
+Como restaurante, eu quero:
+
+Receber notificações de novos pedidos para prepará-los rapidamente.
+
+Ter controle do horário de funcionamento para que nenhum pedido seja realizado fora do horário/dia de trabalho.
+
+Ter a visualização dos pontos de atenção que clientes deixaram nas avaliações para melhorar o atendimento.
+
+Poder gerenciar o status do pedido para retirada dos clientes ou dos entregadores.
+
+**Ponto de Vista dos Entregadores**
+Eu, como entregador, quero aceitar entregas próximas para ganhar minha renda de forma mais rápida.
+Como entregador, eu quero:
+
+Receber notificações de restaurantes/entregas mais próximas para que o deslocamento seja melhor aproveitado.
+
+Receber o mapa com rota dos endereços para avaliar o caminho mais vantajoso.
+
+Notificar o cliente quando o pedido for coletado para que ele acompanhe a rota.
